@@ -1,4 +1,7 @@
 # The-Level-Up-Loom
+<img width="1410" height="2000" alt="The Level-Up Loom" src="https://github.com/user-attachments/assets/f84d87bf-19ad-4691-a26a-aad76744e662" />
+
+> see zine folder for pdf
 
 
 ## Background story:
