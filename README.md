@@ -18,8 +18,12 @@ That’s why we invented **The-Level-Up-Loom** that allow trainers to train thei
 
 
 ## Wiring diagram
+<img width="1408" height="740" alt="image" src="https://github.com/user-attachments/assets/96799288-2b2a-460b-be21-af317c4cc8bd" />
+
 
 ## 3D model
+<img width="1005" height="732" alt="image" src="https://github.com/user-attachments/assets/b282e3be-9947-4fd9-a860-5f90b157384c" />
 
+>  https://cad.onshape.com/documents/db84e0a09f5b33be235bf3a6/w/fb84d5aecc039dd8e74aac11/e/b8b159e385a1392db68b3f05?renderMode=0&uiState=6a4c2ab49c74fab5cc524d6a
 
 
